@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flowscode
+- 👋 Hi, I’m Flow
 - 👀 I’m interested in anything Devops
 - 🌱 I’m currently learning everything to do with Devops (and JAVA, just so I have a better understanding of the big picture)
 
